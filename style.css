@@ -221,6 +221,10 @@ li {
   .header__about {
     padding: 20px 25px;
   }
+
+  .main__content {
+    padding: 50px;
+  }
 }
 
 @media (max-width: 1060px) {
@@ -256,7 +260,7 @@ li {
   }
 
   .footer {
-    padding: 60px;
+    padding: 50px;
   }
 
   .footer__image {
@@ -273,6 +277,10 @@ li {
 @media (max-width: 750px) {
   .header__image {
     width: 350px;
+  }
+
+  .main__content {
+    padding: 30px;
   }
 
   .header__caption {
